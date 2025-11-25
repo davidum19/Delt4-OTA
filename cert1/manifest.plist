@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/davidum19/Delt4-OTA/releases/download/52/Delt4_OTA_Telecom.ipa</string>
+          <string>https://github.com/davidum19/Delt4-OTA/releases/download/62/Delt4_T3lecom.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -19,7 +19,7 @@
         <key>bundle-identifier</key>
         <string>com.gloop.deltamobile</string>
         <key>bundle-version</key>
-        <string>2.698.937</string>
+        <string>2.700.937</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
